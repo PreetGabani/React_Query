@@ -1,0 +1,36 @@
+31/1/2022
+
+Task :- Prefer React Query
+
+(With Practical)
+
+- What is React Query
+- Why React Query
+- Project SetUp
+- Fetching data with useEffect and useState (Normal Method)
+- Fetching data with useQuery
+- Handling Error with useEffect and useState (Normal Method)
+- Handling Query Error
+- React Query Devtools
+- Query Cache (cacheTime: 5000)
+- Stale Time (staleTime: 5000)
+- Refetch Defaults (refetchOnMount:true,refetchOnWindowFocus:true)
+- Polling (refetchInterval:3000)
+- useQuery on click (reftech array destructuring)
+- Success and Error Callbacks (onSuccess and onError)
+
+=====================================================================
+
+1/2/2022
+
+Task :- Prefer React Query (Remaining Topics)
+
+
+- Data Transformation (Inprogress)
+- Custom Query Hook
+- Query by Id
+- Parallel Query
+- Dynamic Parallel Queries
+- Dependent Queries
+- Initial Query Data
+- Paginated Query
